@@ -1,24 +1,13 @@
 # Ex-3-VI-CHARACTERISTICS-OF-GUNN-OSCILLATOR
-
 ## AIM:
 To study I-V characteristics of Gunn Diode and depth of modulation of modulation of PINdiode.
-
 ## Apparatus Used:
-
 Gunn power supply, Gunn oscillator, PIN modulator, Isolator, Frequency Meter, Variableattenuator, Detector mount, Slotted section, VSWR meter.
-
 ## Experimental Setup:
 <img width="880" height="180" alt="image" src="https://github.com/user-attachments/assets/b3db014a-3823-4ece-93c1-62955cad660d" />
-
 ## Theory
-
 The Gunn oscillator is base on negative differential conductivity effect in bulk semi- conductors. Gunn diode has two conduction bands separated by an energy gap (greater than thermal agitation energies). When an electron is moved to the satellite energy band, it will have negative differentialmobility. This produces the negative resistance required for the oscillations. In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this case the oscillationfrequency is determined by cavity dimension than by diode itself. Although Gunn oscillator can be amplitude-modulated with the bias voltage, separate PIN modulator through is used in this experiment. A square wave modulating signal is applied through the modulator on to the microwave carrier signal.
-
-
-
-
 ## Procedure:
-
 Set the components and equipments as shown in figure above.
 Initially set the variable attenuator for maximum attenuation.
 Keep the control knob of Gunn power supply as below : Meter switch : ‘OFF’ Gunn bias knob : Fully anti-clockwise Pin bias knob/Mod Amplifier: Mid position Pin mod frequency : Mid position
@@ -35,7 +24,6 @@ Adjust the attenuator setting, gain control knob on VSWR meter and tune the dete
 Move detector probe along the slotted line and note position of probe where pointer comes to extreme left position, which is first minimum. In order to know exact position of minimum note the positions of equal response points on either side of the minimum and then the midpoint of those positions will give position of minimum. The same way note nextminimum positions.
 Repeat the above procedure for different settings of micrometer.
 ## Depth of Modulation of PIN Diode:
-
 Apply Gunn Bias Voltage slowly so that panel meter of Gunn power supply reads 8V.
 Tune the PIN modulator bias voltage and frequency knob for maximum output on theoscilloscope.
 Coincide the bottom of square wave oscilloscope to some reference level and note down themicrometer reading of variable attenuator.
@@ -45,15 +33,23 @@ The difference of both dB reading of VSWR meter gives the modulation depth of PI
 Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.
 
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
+## B.Observation: 
+<img width="1866" height="843" alt="image" src="https://github.com/user-attachments/assets/7d33ec04-b98a-4576-acb4-07bbea31f855" />
+<img width="973" height="1280" alt="WhatsApp Image 2026-05-15 at 18 03 10" src="https://github.com/user-attachments/assets/16fca4b5-0bdc-4cfe-a48e-120ed84c6f85" />
 
 ## C.Analysis of Results: (Write your own)
+## C.Analysis of Results:
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 
 (Include sample calculations/Display/plot/typical graph)
 
 ## D.Conclusions: (Write your Own)
+## D.Conclusions: 
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
 
 ## Precautions:
 
 • Check the connections before switching on the kit. • Connections should be done properly. • Observation should be taken properly.
 
 ## Result:
+Hence characteristics of gunn oscillator is successfuly done.
